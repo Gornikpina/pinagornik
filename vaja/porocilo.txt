@@ -1,1 +1,2 @@
 1. vse tri datoteke so bile v statusu pending2. datoteke imajo status modified, so se vedno v pending files
+3. datoteka tmp.txt je v statusu deleted file
